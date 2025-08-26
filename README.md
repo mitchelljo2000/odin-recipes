@@ -1,0 +1,1 @@
+This project creates a website with links to pages that contain recipes. Completing this project will demonstrate understanding of the HTML topics learned up to this point in the course.
